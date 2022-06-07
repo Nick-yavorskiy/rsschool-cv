@@ -1,0 +1,1 @@
+[Nikita Yavorskiy CV link](https://nick-yavorskiy.github.io/rsschool-cv/cv)
