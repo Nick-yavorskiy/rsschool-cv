@@ -1,0 +1,94 @@
+.myPhoto {
+    height: 150px;
+    width: 150px;
+}
+.rsLogo {
+    height: 100px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.nav {
+    background-color: #f6f6f6;
+    display: flex;
+    flex-direction: column;
+    align-contect: center;
+    justify-contect: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 200px;
+    border-right: 1px solid black;
+}
+.main {
+    margin-left: 200px;
+    padding: 15px;
+}
+
+.navElements {
+    padding: 5px;
+}
+.footer {
+    margin-left: 200px;
+    padding: 15px;
+}
+
+.nav a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 25px;
+    font-size: 1em;
+    font-weight:bold;
+    color: cornflowerblue;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.section {
+    border-bottom: 1px solid black;
+    margin: 10px;
+    padding: 5px;
+    color: #555;
+}
+.sectionFirst {
+    border-bottom: 10px solid black;
+}
+
+.rsLogoFooter {
+    height: 100px;
+    width: 150px;
+    display: block;
+}
+
+.footerContent {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color : blue;
+}
+
+
+
+/*
+.inline {
+    display: inline-block;
+    border: 1px solid red;
+    padding: 1rem 1rem;
+    vertical-align: length;
+        margin-left: 50%;
+    margin-right: 0;
+    width: 40%;
+    height: 100%
+}
+
+
+ */
